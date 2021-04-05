@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitachi-sauranil
+- 👋 Hi, I’m Sauranil 
 - 👀 I’m interested in Web technologies
 - 🌱 I’m currently learning SAP UI5 and SAP Fiori 
 - 💞️ I’m looking to collaborate on SAP UI5 projects
